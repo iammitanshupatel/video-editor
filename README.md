@@ -34,7 +34,7 @@ This project is a responsive video editing interface that allows users to load a
 
 2. **Navigate to the Project Directory**:
 
-    `cd video-editing-interface`
+    `cd video-editor`
 
 3. **Install Dependencies**:
 
@@ -50,4 +50,3 @@ This project is a responsive video editing interface that allows users to load a
     or using yarn:
     `yarn start`
     The application will be available at http://localhost:3000.
-    
